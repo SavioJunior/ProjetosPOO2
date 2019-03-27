@@ -3,8 +3,8 @@ package ProjetoClinica;
 public class Paciente {
 
 
-        String nome, cpf, rg;
-        int idade;
+        String nome, cpf, rg, endereco;
+        int idade, numeroCartao;
 
 
 
